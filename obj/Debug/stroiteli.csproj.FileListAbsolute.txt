@@ -1,0 +1,7 @@
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\bin\Debug\stroiteli.exe.config
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\bin\Debug\stroiteli.exe
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\bin\Debug\stroiteli.pdb
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\obj\Debug\stroiteli.csprojAssemblyReference.cache
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\obj\Debug\stroiteli.csproj.CoreCompileInputs.cache
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\obj\Debug\stroiteli.exe
+C:\Users\Kseny\source\repos\stroiteli\stroiteli\obj\Debug\stroiteli.pdb
